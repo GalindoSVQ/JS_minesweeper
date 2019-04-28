@@ -1,2 +1,2 @@
 #MinesWeeper
-MinesWeeper Game on JavaScript by Antonio Galindo
+MinesWeeper Game on JavaScript by Antonio Galindo.
